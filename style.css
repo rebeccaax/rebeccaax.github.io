@@ -1,0 +1,47 @@
+h1 {
+  color: black;
+  font-family: 'Shadows Into Light', cursive;
+  border-bottom: 7px dotted white;
+  text-decoration: none;
+}
+h2 {
+  color: black;
+  font-family: 'Cairo', sans-serif;
+  
+}
+
+body {
+background-color: pink;
+}
+
+ul {
+    font-family: 'Shadows Into Light', cursive;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    padding-top: 0px;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #111;
+}
+
+
+#eggs {
+  width: 480px;
+  height: 270px;
+}
